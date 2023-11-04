@@ -1,0 +1,24 @@
+.underline{
+    text-decoration: underline;
+}
+
+.skill-background{
+    background-color: gray;
+}
+
+.rongrian{
+    display: flex;
+    justify-content: center;
+    justify-self: center;
+    align-items: center;
+}
+.inside-edu{
+    width: 80%;
+}
+
+.featurette{
+    padding-bottom: 70px;
+}
+.below30{
+    padding-bottom: 30px;
+}
